@@ -1,0 +1,161 @@
+.fa-audio-description{
+	margin-left: 30px;
+}
+a{
+	text-decoration: none;
+}
+#header{
+	position: fixed;
+}
+.name{
+	font-size: 40px;
+	color:  #d4125a ;
+}
+#page1{
+	margin: 20px;
+}
+.name5{
+	margin-left: 170px;
+	color:  #d4125a ;
+}
+.name6{
+	margin-left: 10px;
+	color:  #d4125a ;
+}
+.name1{
+	margin-left: 150px;
+	color:  #d4125a ;
+}
+.name2{
+	margin-left: 150px;
+	color:  #d4125a ;
+}
+.name3{
+	margin-left: 150px;
+	color:  #d4125a ;
+}
+.name4{
+	margin-left: 150px;
+	color:  #d4125a ;
+}
+.container {
+  position: relative;
+  text-align: center;
+  color: white;
+}
+.centered {
+  position: absolute;
+  top: 30%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: black;
+  font-size: 30px;
+}
+.centered1{
+  position: absolute;
+  top: 48%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: black;
+}
+.centered2{
+  position: absolute;
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.footer{
+	display: flex;
+}
+.heading{
+	font-size: 30px;
+	margin-left: 20px;
+	margin-top: 40px;
+	color: red;
+}
+.footer1{
+	display: flex;
+}
+.para{
+	color: black;
+	margin-left: 20px;
+	margin-top: 10px;
+}
+.flex{
+	display: grid;
+	width: 1000px;
+	margin-top: 40px;
+	margin-left: 80px;
+	grid-template-columns: 300px 300px 300px 300px;
+	grid-template-rows: 300px 300px;
+}
+.des{
+	color: #776666;
+}
+.prof{
+	color: #151313;
+}
+.slide{
+	background-color:  #d4125a;
+	padding: 20px;
+	color: white;
+}
+.sen{
+	height: 200px;
+	margin-left: 250px;
+	margin-top: -200px;
+	width: 300px;
+	background-color: #d4125a;
+	position: absolute;
+}
+.page-start{
+	display: grid;
+	background-color: grey;
+	width: 800px;
+	margin-left: 200px;
+}
+.party-page{
+	display: grid;
+	grid-template-columns: 80px 80px 80px 80px;
+	justify-content: space-between;
+	width: 400px;
+	text-align: center;
+}
+.date{
+	background-color:#8e949e;
+}
+.party{
+	width: 80px;
+	height: 80px;
+}
+.start-p{
+	display: flex;
+	justify-content: space-between;
+	width: 650px;
+	padding-top: 6px;
+	background-color:#fff;
+	margin-left: 50px;
+	padding: 20px;
+}
+.sentance{
+	width: 400px;
+	font-size: 14px;
+	padding-left: 20px;
+}
+.edit{
+	width: 70px;
+	height: 30px;
+	border-radius: 10px;
+	border-color: #458bff;
+	background-color: #85aced;
+}
+.delete{
+	width: 70px;
+	height: 30px;
+	border-radius: 10px;
+	border-color: #458bff;
+	background-color: #85aced;
+	margin-top: 40px;
+	margin-left: -90px;
+}
+
